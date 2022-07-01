@@ -15,8 +15,8 @@
     "node"
   ],
   "engines": {
-    "node": ">=10.16.0",
-    "npm": ">=6.4.1"
+    "node": "=11.3.0",
+    "npm": "=6.11.3"
   },
   "author": "Duke's VR Tech",
   "license": "MIT",
